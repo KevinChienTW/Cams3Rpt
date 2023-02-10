@@ -1,0 +1,31 @@
+456
+e	Criteria	Pass/Fail
+IMR, dB	-40.672	-37.0	Pass	
+IRL, dB	-17.045	-20.0	Fail	
+INEXT, dB	-41.855	-40.0	Pass	
+IFEXT, dB	-51.653	-40.0	Pass	
+SCD12, dB	-27.385	-20.0	Pass	
+SCD21, dB	-28.657	-20.0	Pass	
+SDC21, dB	-27.105	-20.0	Pass	
+D+/D- IL@50MHz, dB	-0.8	-1.52	Pass	
+D+/D- IL@100MHz, dB	-0.898	-2.03	Pass	
+D+/D- IL@200MHz, dB	-1.367	-2.91	Pass	
+D+/D- IL@400MHz, dB	-2.03	-4.35	Pass	
+IDDXT (2NEXT), dB	-60.096	-35.0	Pass	
+IDDXT (1NEXT+1FEXT), dB	-61.794	-35.0	Pass	
+123
+789
+123
+789
+123
+789
+123
+789
+123
+789
+123
+789
+123
+789
+123
+789
